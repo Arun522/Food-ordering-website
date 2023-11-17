@@ -25,7 +25,7 @@ const Navbar = ({ toggleDarkMode, darkMode }) => {
           <AiOutlineMenu size={30} />
         </div>
         <h1 className="text-2xl sm:text-3xl lg:text-4xl px-2">
-          Ebuka <span className="font-bold">Eats</span>
+          Arun <span className="font-bold">Eats</span>
         </h1>
         <div className="hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[14px]">
           <p className="bg-black text-white rounded-full p-2">Delivery</p>
